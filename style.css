@@ -57,11 +57,14 @@
 #game-result {
   font-size: 2rem;
   background-color: color-mix(in srgb, red 50%, blue 50%);
-  color: white;
-  display: inline;
+  display: inline-block;
+  max-width: 90%;
   padding: 1rem;
   border-radius: 1rem;
-  cursor: pointer;
+  text-align: center;
+  line-height: 1.4;
+  white-space: normal;
+  word-break: break-word;
 }
 #reset {
   background-color: black;
@@ -72,3 +75,4 @@
   border: none;
   cursor: pointer;
 }
+
