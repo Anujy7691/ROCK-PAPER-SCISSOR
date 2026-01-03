@@ -11,7 +11,7 @@ The game allows users to play against the computer and keeps track of scores.
 - Fully responsive design
 
 ## Screenshots
-![Game Screenshot](game image.png)
+![Game Screenshot](./game image.png)
 
 ## Tech Stack
 - HTML5
